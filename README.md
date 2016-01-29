@@ -1,9 +1,9 @@
 * sign up
 
-<https://github.com>
+> <https://github.com>
 ![set_account](https://raw.githubusercontent.com/ouiyeah/github/gh-pages/figures/set_account.png "set_account")
 ![choose_plan](https://raw.githubusercontent.com/ouiyeah/github/gh-pages/figures/choose_plan.png "choose_plan")
-login the email and check the confirmation letter to verity the mailbox address
+> login the email and check the confirmation letter to verity the mailbox address
 
 ***
 
@@ -20,7 +20,7 @@ login the email and check the confirmation letter to verity the mailbox address
 ![launch_pages](https://raw.githubusercontent.com/ouiyeah/github/gh-pages/figures/launch_pages.png "launch_pages")
 ![load_readme](https://raw.githubusercontent.com/ouiyeah/github/gh-pages/figures/load_readme.png "load_readme")
 ![publish_page](https://raw.githubusercontent.com/ouiyeah/github/gh-pages/figures/publish_page.png "publish_page")
-review the published pages such as <https://ouiyeah.github.io/>
+> review the published pages such as <https://ouiyeah.github.io/>
 
 ***
 
