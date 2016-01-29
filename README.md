@@ -1,8 +1,8 @@
 * sign up
 
 <https://github.com>
-![set_account](img/set_account.png "set_account")
-![choose_plan](https://github.com/ouiyeah/github/img/choose_plan.png "choose_plan")
+![set_account](./img/set_account.png "set_account")
+![choose_plan](../gh-pages/img/choose_plan.png "choose_plan")
 login the email and check the confirmation letter to verity the mailbox address
 
 ***
