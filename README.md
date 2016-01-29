@@ -22,8 +22,16 @@ review the published pages such as <https://ouiyeah.github.io/>
 
 ***
 # create organization
+
 ![new_organization](https://raw.githubusercontent.com/ouiyeah/github/gh-pages/figures/new_organization.png "new_organization")
 ![set_organization](https://raw.githubusercontent.com/ouiyeah/github/gh-pages/figures/set_organization.png "set_organization")
+invite team members if necessary
 
 ***
 # create team
+
+![switch_dashboard](https://raw.githubusercontent.com/ouiyeah/github/gh-pages/figures/switch_dashboard.png "switch_dashboard")
+![view_organization](https://raw.githubusercontent.com/ouiyeah/github/gh-pages/figures/view_organization.png "view_organization")
+![choose_teams](https://raw.githubusercontent.com/ouiyeah/github/gh-pages/figures/choose_teams.png "choose_teams")
+![new_team](https://raw.githubusercontent.com/ouiyeah/github/gh-pages/figures/new_team.png "new_team")
+add person and repository if necessary
