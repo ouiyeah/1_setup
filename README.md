@@ -1,5 +1,6 @@
-#*[sign up](https://github.com)
+# * [sign up](https://github.com)
 ![set_account](img/set_account.png "set_account")
+![choose_plan](img/choose_plan.png "choose_plan")
 ***
 * [create repository]
 * [publish gh-pages](http://blog.csdn.net/renfufei/article/details/37725057/)
