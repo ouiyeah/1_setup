@@ -21,8 +21,9 @@ login the email and check the confirmation letter to verity the mailbox address
 review the published pages such as <https://ouiyeah.github.io/>
 
 ***
-# 
+# create organization
+![new_organization](https://raw.githubusercontent.com/ouiyeah/github/gh-pages/figures/new_organization.png "new_organization")
+![set_organization](https://raw.githubusercontent.com/ouiyeah/github/gh-pages/figures/set_organization.png "set_organization")
 
-* [publish gh-pages](http://blog.csdn.net/renfufei/article/details/37725057/)
-* [create organization / create team](http://joshuasabrina.iteye.com/blog/1816597)
-* ![test](file:///D:/map.bmp)
+***
+# create team
