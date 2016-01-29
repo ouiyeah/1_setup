@@ -1,7 +1,3 @@
-[TOC]
-
-***
-
 * sign up
 
 > <https://github.com>
