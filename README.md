@@ -1,4 +1,4 @@
-* ### sign up
+# sign up
 
 <https://github.com>
 ![set_account](https://raw.githubusercontent.com/ouiyeah/github/gh-pages/figures/set_account.png "set_account")
@@ -6,7 +6,7 @@
 login the email and check the confirmation letter to verity the mailbox address
 
 ***
-* create repository
+# create repository
 
 >![new_repository](https://raw.githubusercontent.com/ouiyeah/github/gh-pages/figures/new_repository.png "new_repository")
 >![set_repository](https://raw.githubusercontent.com/ouiyeah/github/gh-pages/figures/set_repository.png "set_repository")
