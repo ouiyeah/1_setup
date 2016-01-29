@@ -6,14 +6,12 @@
 > login the email and check the confirmation letter to verity the mailbox address
 
 ***
-
 * create repository
 
-![new_repository](https://raw.githubusercontent.com/ouiyeah/github/gh-pages/figures/new_repository.png "new_repository")
-![set_repository](https://raw.githubusercontent.com/ouiyeah/github/gh-pages/figures/set_repository.png "set_repository")
+>![new_repository](https://raw.githubusercontent.com/ouiyeah/github/gh-pages/figures/new_repository.png "new_repository")
+>![set_repository](https://raw.githubusercontent.com/ouiyeah/github/gh-pages/figures/set_repository.png "set_repository")
 
 ***
-
 * publish gh-pages
 
 ![choose_settings](https://raw.githubusercontent.com/ouiyeah/github/gh-pages/figures/choose_settings.png "choose_settings")
