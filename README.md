@@ -1,9 +1,9 @@
-* sign up
+### sign up
 
- + <https://github.com>
+<https://github.com>
 ![set_account](https://raw.githubusercontent.com/ouiyeah/github/gh-pages/figures/set_account.png "set_account")
 ![choose_plan](https://raw.githubusercontent.com/ouiyeah/github/gh-pages/figures/choose_plan.png "choose_plan")
- + login the email and check the confirmation letter to verity the mailbox address
+login the email and check the confirmation letter to verity the mailbox address
 
 ***
 * create repository
