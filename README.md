@@ -20,7 +20,9 @@ login the email and check the confirmation letter to verity the mailbox address
 ![launch_pages](https://github.com/github/img/launch_pages.png "launch_pages")
 ![load_readme](https://github.com/github/img/load_readme.png "load_readme")
 ![publish_page](https://github.com/github/img/publish_page.png "publish_page")
+review the published pages such as <https://ouiyeah.github.io/github/>
 
+***
 
 * [publish gh-pages](http://blog.csdn.net/renfufei/article/details/37725057/)
 * [create organization / create team](http://joshuasabrina.iteye.com/blog/1816597)
