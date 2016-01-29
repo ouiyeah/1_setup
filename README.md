@@ -1,6 +1,3 @@
-
-[toc]
-
 # sign up
 
 <https://github.com>
