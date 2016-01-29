@@ -2,7 +2,7 @@
 
 <https://github.com>
 ![set_account](../gh-pages/figures/set_account.png "set_account")
-![choose_plan](https://github.com/ouiyeah/github/blob/gh-pages/img/choose_plan.png "choose_plan")
+![choose_plan](https://github.com/ouiyeah/github/blob/gh-pages/figures/choose_plan.png "choose_plan")
 login the email and check the confirmation letter to verity the mailbox address
 
 ***
