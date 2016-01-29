@@ -9,18 +9,18 @@ login the email and check the confirmation letter to verity the mailbox address
 
 * create repository
 
-![new_repository](https://github.com/github/img/new_repository.png "new_repository")
-![set_repository](https://github.com/github/img/set_repository.png "set_repository")
+![new_repository](https://raw.githubusercontent.com/ouiyeah/github/gh-pages/figures/new_repository.png "new_repository")
+![set_repository](https://raw.githubusercontent.com/ouiyeah/github/gh-pages/figures/set_repository.png "set_repository")
 
 ***
 
 * publish gh-pages
 
-![choose_settings](https://github.com/github/img/choose_settings.png "choose_settings")
-![launch_pages](https://github.com/github/img/launch_pages.png "launch_pages")
-![load_readme](https://github.com/github/img/load_readme.png "load_readme")
-![publish_page](https://github.com/github/img/publish_page.png "publish_page")
-review the published pages such as <https://ouiyeah.github.io/github/>
+![choose_settings](https://raw.githubusercontent.com/ouiyeah/github/gh-pages/figures/choose_settings.png "choose_settings")
+![launch_pages](https://raw.githubusercontent.com/ouiyeah/github/gh-pages/figures/launch_pages.png "launch_pages")
+![load_readme](https://raw.githubusercontent.com/ouiyeah/github/gh-pages/figures/load_readme.png "load_readme")
+![publish_page](https://raw.githubusercontent.com/ouiyeah/github/gh-pages/figures/publish_page.png "publish_page")
+review the published pages such as <https://ouiyeah.github.io/>
 
 ***
 
