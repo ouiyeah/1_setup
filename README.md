@@ -35,3 +35,13 @@ invite team members if necessary
 ![choose_teams](https://raw.githubusercontent.com/ouiyeah/github/master/img/choose_teams.png "choose_teams")
 ![new_team](https://raw.githubusercontent.com/ouiyeah/github/master/img/new_team.png "new_team")
 add person and repository if necessary
+
+***
+# download_desktop
+
+open https://desktop.github.com/
+![download_desktop](https://raw.githubusercontent.com/ouiyeah/github/master/img/download_desktop.png "download_desktop")
+if install failed with
+> An error occurred attempting to install github
+replace the http protocol with https such as <https://github-windows.s3.amazonaws.com/GitHub.application>
+and use iexplore to open it after install its certification
