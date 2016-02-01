@@ -1,6 +1,6 @@
 # sign up
 
-open <https://github.com>
+open <https://github.com/>
 ![set_account](https://raw.githubusercontent.com/ouiyeah/github/master/img/set_account.png "set_account")
 ![choose_plan](https://raw.githubusercontent.com/ouiyeah/github/master/img/choose_plan.png "choose_plan")
 login the email and check the confirmation letter to verity the mailbox address
@@ -39,9 +39,11 @@ add person and repository if necessary
 ***
 # download_desktop
 
-open https://desktop.github.com/
+open <https://desktop.github.com/>
 ![download_desktop](https://raw.githubusercontent.com/ouiyeah/github/master/img/download_desktop.png "download_desktop")
 if install failed with
 > An error occurred attempting to install github
+
 replace the http protocol with https such as <https://github-windows.s3.amazonaws.com/GitHub.application>
+
 and use iexplore to open it after install its certification
